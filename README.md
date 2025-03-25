@@ -72,7 +72,7 @@ Pembuatan Aplikasi To-Do List dengan Flutter
     * Notifikasi Perubahan: Dengan ValueNotifier, kita dapat mengelola perubahan state secara lebih optimal dibandingkan setState() biasa.
     * Kemudahan Akses Data: Semua widget anak dapat mengambil data tanpa perlu meneruskannya sebagai parameter.
 
-* ### Capture Hasil Langkah 9 dan Penjelasan
+* ### Capture Hasil Langkah 14 dan Penjelasan
     ![Capture Praktikum 3](assets/master_plan3.gif)
     Penjelasan: Aplikasi sekarang menampilkan jumlah tugas yang telah diselesaikan di bagian bawah daftar tugas.
     * Saat pengguna mencentang checkbox, jumlah tugas selesai diperbarui secara otomatis.
